@@ -1,1 +1,2 @@
-# website-content
+# 📚 Otibegunu Folklore Adaptations
+This repository contains bilingual adaptations of traditional Bengali folklore, presented in both Bengali and English. Curated and retold by the Otibegunu team, these stories aim to preserve cultural memory while making timeless tales accessible to a global audience. Perfect for readers, researchers, translators, and creatives exploring the intersection of myth, memory, and modern storytelling.
